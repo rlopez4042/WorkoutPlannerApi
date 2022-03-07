@@ -56,7 +56,6 @@
 | Exercise    | Reps     | Sets     | Weekdays | Description        |
 | ----------- | :------: | :------: | :--------: | ------------------ |
 | Bench Press |   9-12   |    3     | Monday | Lay on bench, push weights up, short rest time ( under 45 sec ) |
-| 
 
 
 **Cardio**
