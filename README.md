@@ -67,6 +67,8 @@
 
 ## Wireframes
 ![- Wireframe](https://miro.com/app/board/uXjVOHItXT8=/?invite_link_id=213180188513)
+![Wireframe](./Images/MobileWireframe.jpg)
+![Wireframe](./Images/DesktopWireframe.jpg)
 
 
 
@@ -74,7 +76,7 @@
 
 ## Minimum Viable Product (MVP/Post MVP)
 
-- 'Planning" directory
+- 'Planning' directory
     - general approach
     - link to user stories
     - link to the React Architectures
