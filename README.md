@@ -67,9 +67,6 @@
 
 ## Wireframes
 ![- Wireframe](https://miro.com/app/board/uXjVOHItXT8=/?invite_link_id=213180188513)
-![Wireframe](./Images/MobileWireframe.jpg)
-![Wireframe](./Images/DesktopWireframe.jpg)
-
 
 
 
@@ -187,3 +184,4 @@
 ```js
     let code = 'here'
 ```
+
