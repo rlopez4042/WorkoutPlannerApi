@@ -1,4 +1,4 @@
-//const mongoose = require('./../connection')
+const mongoose = require('./../connection')
 const Schema = mongoose.Schema
 
 const workoutSchema = new Schema({
@@ -13,3 +13,5 @@ const workoutSchema = new Schema({
         }
     ]
 })
+
+module.exports = mongoose.model("Workout", workoutSchema)
