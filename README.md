@@ -43,25 +43,10 @@
 
 ### Workout Schema
 
-**User**
-| First Name | Last Name |  Starting Weight |Goals  |
-| ---------- | --------- | :------: | ---------------- |
-| Robert | Lopez | enter goals here | ### | 
-| Isaiah | Keller | generally more fit and healthy | 210 |
-| Garrett | Pyke | goals | ### |
-| Corey | Villanueva | goals | ### |
-
-
-**Weight Lifting**
-| Exercise    | Reps     | Sets     | Weekdays | Description        |
-| ----------- | :------: | :------: | :--------: | ------------------ |
-| Bench Press |   9-12   |    3     | Monday | Lay on bench, push weights up, short rest time ( under 45 sec ) |
-
-
-**Cardio**
-| Exercise    | Reps     | Sets     |
-| ----------- | :------: | :------: |
-| Bench Press |   9-12   |    3     |
+| name | duration | exercise |
+| -------- | :------: | ------------- |
+| chest | 1 hour | push up, bench press, incline press |
+| back | 1 hour | pull up, deadlifts, upright rows |
 
 ***
 

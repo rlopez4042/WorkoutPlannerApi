@@ -1,7 +1,7 @@
 [
     {
         "name": "Chest",
-        "druation": "1 hour",
+        "duration": "1 hour",
         "exercises": [
             {
                 "name": "Bench Press",
@@ -25,7 +25,7 @@
     },
     {
         "name": "Back",
-        "druation": "1 hour",
+        "duration": "1 hour",
         "exercises": [
             {
                 "name": "Deadlift",
@@ -49,7 +49,7 @@
     },
     {
         "name": "Legs",
-        "druation": "1 hour",
+        "duration": "1 hour",
         "exercises": [
             {
                 "name": "Squats",

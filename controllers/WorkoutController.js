@@ -11,3 +11,5 @@ router.get("/", async (req, res) => {
         Exercises: allWorkouts
     })
 })
+
+module.exports = router;
