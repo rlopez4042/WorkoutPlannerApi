@@ -12,4 +12,15 @@ router.get("/", async (req, res) => {
     })
 })
 
+router.post("/", async (req, res) => {
+    const data = req.body;
+    const newExercise = await Exercise.create(data)
+    res.json({
+        status: 200,
+        msg: 'New Exercises added',
+        Excercise: newExercise
+
+    });
+});
+
 module.exports = router;
