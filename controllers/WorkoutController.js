@@ -31,6 +31,19 @@ router.post("/", async (req, res) => {
   });
 });
 
+router.put('/:id', (req, res) => {
+  Workout.updateOne(
+      {
+        _id: req.params.id
+        }, 
+      {
+        $push: {exercises: req.body} 
+        } 
+      )
+      .then(exercise => res.status(201).json({ status: 201, exercise: exercise}))
+      .catch(error => console.log(error))
+})
+
 router.put("/:id", (req, res) => {
   Workout.findByIdAndUpdate(
     req.params.id,
