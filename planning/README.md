@@ -21,7 +21,7 @@
 ***
 ### Time/Priority Matrix
 
-[- Time/Priority Matrix on Google Sheets](https://docs.google.com/spreadsheets/d/18glg7hDzIr9bHodGY5eSPhqrylf3RekGERLrtxIf8ZA/edit?usp=sharing)
+[- Time/Priority Matrix on Google Slides](https://docs.google.com/presentation/d/1CXTHjTzJ179aKc5salNZyDG0O8eZC2yhWKy7tu2evdA/edit?usp=sharing)
 
 
 ***
@@ -31,6 +31,7 @@
 
 ***
 ### Unsolved Problems or Hurdles to Overcome
+
 
 
 ***

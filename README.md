@@ -51,13 +51,9 @@
 ***
 
 ## Wireframes
-![- Wireframe](https://miro.com/app/board/uXjVOHItXT8=/?invite_link_id=213180188513)
+[- Wireframe](https://miro.com/app/board/uXjVOHItXT8=/?invite_link_id=213180188513)
 ![Wireframe](./Images/MobileWireframe.jpg)
 ![Wireframe](./Images/DesktopWireframe.jpg)
-
-
-
-
 
 ## Minimum Viable Product (MVP/Post MVP)
 
