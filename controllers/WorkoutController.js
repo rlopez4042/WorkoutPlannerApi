@@ -21,6 +21,15 @@ router.get("/:name", (req, res) => {
   });
 });
 
+router.get("/id/:id", (req, res) => {
+  Workout.findById({ _id: req.params.id }).then((workout) => {
+    res.json({
+      status: 200,
+      workout: workout,
+    });
+  });
+});
+
 router.post("/", async (req, res) => {
   const data = req.body;
   const newWorkout = await Workout.create(data);
@@ -31,16 +40,32 @@ router.post("/", async (req, res) => {
   });
 });
 
-router.put('/:id', (req, res) => {
-  Workout.updateOne(
-      {
-        _id: req.params.id
+// router.put('/:id', (req, res) => {
+//   Workout.updateOne(
+//       {
+//         _id: req.params.id
+//         }, 
+//       {
+//         $push: {exercises: req.body} 
+//         } 
+//       )
+//       .then(exercise => res.status(201).json({ status: 201, exercise: exercise}))
+//       .catch(error => console.log(error))
+// })
+
+router.put('/addex/:id', (req, res) => {
+  Workout.findByIdAndUpdate(
+        {
+          _id: req.params.id
         }, 
-      {
-        $push: {exercises: req.body} 
+        {
+          $push: {exercises: req.body} 
+        },
+        {
+          new: true
         } 
       )
-      .then(exercise => res.status(201).json({ status: 201, exercise: exercise}))
+      .then((workout) => res.json({status: 200, workout: workout}))
       .catch(error => console.log(error))
 })
 
