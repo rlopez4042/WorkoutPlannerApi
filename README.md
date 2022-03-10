@@ -117,21 +117,20 @@
 | Team Page | High | 1.5hrs |
 **MVP Backend**
 | Backend Framework | High | 45min |
-| API | High |
-| MongoDB | High |
-| API testing | High |
+| MongoDB | High | 2 |
+| API testing | High | 4 |
 | Backend Deployment to Heroku | High | 1hr |
 **MVP Frontend**
 | React Framework | High | 1hr |
 | Landing Page | High | 1hr |
 | Home page | High | 2.5hrs | 
-| App Testing | High | 
+| App Testing | High | 4 |
 | Frontend Deployment to Github | High | 2.5hrs | 
 **Post MVP**
-| CSS - beyond basic | Low |
-| Workouts by day of the week | Low |
-| Separate workout types (cardio vs weights) | Low |
-| Goal reps and sets vs accomplished | Low |
+| CSS - beyond basic | Low | 3 |
+| Workouts by day of the week | Low | 4 |
+| Separate workout types (cardio vs weights) | Low | 3 |
+| Goal reps and sets vs accomplished | Low | 5 |
 
 
 ***
