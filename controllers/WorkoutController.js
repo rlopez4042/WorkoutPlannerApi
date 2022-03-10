@@ -21,6 +21,15 @@ router.get("/:name", (req, res) => {
   });
 });
 
+router.get("/id/:id", (req, res) => {
+  Workout.findById({ _id: req.params.id }).then((workout) => {
+    res.json({
+      status: 200,
+      workout: workout,
+    });
+  });
+});
+
 router.post("/", async (req, res) => {
   const data = req.body;
   const newWorkout = await Workout.create(data);
