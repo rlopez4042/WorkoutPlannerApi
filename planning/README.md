@@ -6,7 +6,7 @@
 ***
 ### User Stories
 
-
+Users can use our application to create customized workouts. Users can also add and delete exercises in each individual workout. Each exercise includes a field for the exercise name, reps, sets, and a description. Clicking on the Workout titles from the homepage displays all the exercises for that workout.
 
 ***
 ### React Architecture
