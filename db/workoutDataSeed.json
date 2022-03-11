@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Chest",
+        "duration": "1 hour",
+        "exercises": [
+            {
+                "name": "Bench Press",
+                "description": "Lower weight to chest. Press bar upward until arms are extended. Repeat.",
+                "reps": 10,
+                "sets": 3
+            },
+            {
+                "name": "Incline Press",
+                "description": "On an incline bench, Lower weight to chest. Press bar upward until arms are extended. Repeat.",
+                "reps": 10,
+                "sets": 3
+            },
+            {
+                "name": "Push Ups",
+                "description": "Lie in a prone position by raising and lowering the body with the straightening and bending of the arms while keeping the back straight and supporting the body on the hands and toes.",
+                "reps": 30,
+                "sets": 3
+            }
+        ]
+    },
+    {
+        "name": "Back",
+        "duration": "1 hour",
+        "exercises": [
+            {
+                "name": "Deadlift",
+                "description": "The deadlift is a movement in which your hips hinge backward to lower down and pick up a weighted barbell or kettlebell from the floor.",
+                "reps": 10,
+                "sets": 3
+            },
+            {
+                "name": "Pullup",
+                "description": " Grip an overhead bar and lift your body until your chin is above that bar. ",
+                "reps": 10,
+                "sets": 3
+            },
+            {
+                "name": "Bent-over Row",
+                "description": "Lift the bar from the rack, bend forward at the hips, and keep the back straight with a slight bend in the knees. Lower the bar towards the floor until the elbows are completely straight, and keep the back flat as the bar is pulled towards the belly button. ",
+                "reps": 10,
+                "sets": 3
+            }
+        ]
+    },
+    {
+        "name": "Legs",
+        "duration": "1 hour",
+        "exercises": [
+            {
+                "name": "Squats",
+                "description": "A squat is a strength exercise in which the trainee lowers their hips from a standing position and then stands back up. ",
+                "reps": 10,
+                "sets": 3
+            },
+            {
+                "name": "Lunges",
+                "description": "A lunge can refer to any position of the human body where one leg is positioned forward with knee bent and foot flat on the ground while the other leg is positioned behind.",
+                "reps": 10,
+                "sets": 30
+            },
+            {
+                "name": "Romanian Deadlifts",
+                "description": "The Romanian deadlift (RDL) is a traditional barbell lift used to develop the strength of the posterior chain muscles, including the erector spinae, gluteus maximus, hamstrings and adductors. ",
+                "reps": 30,
+                "sets": 3
+            }
+        ]
+    }
+]
