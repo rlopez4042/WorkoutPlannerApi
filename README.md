@@ -96,7 +96,15 @@
 - Workouts by day of the week
 - Separate workout types 
 - Goal reps and sets vs accomplished
-- 
+
+
+### Team Page 
+Our team decided to mob-program for the majority of the project. We each contributed in part to the back and front end. Corey and Garrett made huge contributions to the front end, implanting fetch methods for CRUD application and creating the necessary components.
+
+    Garrett: Created our exercise form, enabling us to add exercises to each workout which was an essential part of our application. Helped create our models and controllers on the back-end and designed our time-priority matrix.
+    Corey: Contributed to our models on the back-end and created our front-end layout, including the form and workout components, while also using bootstrap to make the front-end application more user-friendly.
+    Isaiah: Created our seed data and a script to initialize it, and made major contributions with problem solving on the back-end and redesigned the app with CSS.
+    Robert: Presented the team with the initial project concept, created our wireframe designs, and the routes for the Workout controller on the back-end
 
 ***
 
