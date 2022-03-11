@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
     })
 })
 
-const workoutController = require('./controllers/workoutController')
+const workoutController = require('./controllers/WorkoutController')
 app.use('/workout', workoutController);
 
 // const exerciseController = require('./controllers/exerciseController')
